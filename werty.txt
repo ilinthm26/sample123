@@ -1,4 +1,3 @@
 qwertyuiog
 nnn
 new
-current
